@@ -8,3 +8,5 @@ Componentes:
 - 3x Fio de jumper macho-macho.
 
 ![demo](./demo.gif)
+
+![project](./project.png)
